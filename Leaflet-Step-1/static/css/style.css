@@ -1,0 +1,24 @@
+#map { height: 100%;
+      width: 100%;
+    }
+
+body {
+   margin: 0; 
+   padding: 0;
+  
+   }
+
+
+.legend{
+  line-height: 20px;
+  color: white;
+}  
+
+.legend i {
+  width: 19px;
+  height: 19px;
+  float: left;
+  margin-right: 8px;
+  opacity: 1.00;
+}
+
